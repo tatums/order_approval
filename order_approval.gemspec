@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = OrderApproval::VERSION
   spec.authors       = ["tatums"]
   spec.email         = ["tatum@ashlandstudios.com"]
-  spec.summary       = %q{ order approvals}
-  spec.description   = %q{ order approvals}
+  spec.summary       = %q{order approvals}
+  spec.description   = %q{order approvals}
   spec.homepage      = ""
   spec.license       = "MIT"
 
